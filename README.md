@@ -1,108 +1,79 @@
-<h1 align="center">Hi 👋, I'm Aakankshi</h1>
-<h3 align="center">A Passionate AI/ML Engineer, Developer, and Tech Innovator from India</h3>
+<h1 align="center">👋 Hi, I'm Aakankshi</h1>
+<h3 align="center">A Passionate AI/ML Developer from India</h3>
 
-<img align="right" src="https://images.unsplash.com/photo-1580894732930-0f7cafe4183a" alt="AI Developer" width="400" />
-
-- 🔭 I’m currently working on **Bharat Vaidya** – an AI-powered Ayurvedic chatbot providing specific remedies using **Milvus Vector Database, SQL, and Grobid**.
-
-- 🌿 **Founder of BharatBox** – Bias detection model for removing gender and racial bias in text data using **RoBERTa and DistilBERT**.
-
-- 🚀 I’m building **SuperAGI Toolkits** for Zoom and Trello automation using **Python, Pydantic, and Docker**.
-
-- 🛠️ I’m skilled in **AI, NLP, Docker, and API Development**.
-
-- 💬 Ask me about **AI/ML, NLP, API Development, and Startups**.
-
-- 📫 How to reach me **aakankshi.in@gmail.com**
-
-- ⚡ Fun fact: **I can debug code faster than I can decide what to eat 🍕😄**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakankshi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
+### 🚀 **About Me**
+- 🔭 I’m currently working on **AI-Powered Ayurvedic Chatbot**  
+- 🌱 Exploring **Vector Databases, NLP, and SuperAGI**  
+- 💡 Actively participating in **Hackathons & AI Projects**  
+- 🥇 **National-Level Table Tennis Player**
+
+---
+
+### 🛠️ **Tech Stack & Tools**
 <p align="left">
-<a href="https://linkedin.com/in/aakankshi-gera" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakankshi-gera" height="30" width="40" />
-</a>
-<a href="https://github.com/aakankshi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aakankshi" height="30" width="40" />
-</a>
-<a href="mailto:aakankshi.in@gmail.com" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
-</a>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Milvus-3B7EA1?style=flat-square&logo=Milvus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-FFCE00?style=flat-square&logo=LangChain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-<a href="https://milvus.io/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/milvus-io/milvus/master/assets/logo/milvus-logo.png" alt="milvus" width="40" height="40"/> 
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="40" height="40"/> 
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</a>
+### 🏅 **Featured Projects**
+
+- 🚀 **Bharat Vaidya – Ayurvedic Chatbot**  
+  🛠️ An AI-powered chatbot providing precise Ayurvedic remedies using **Charaka Samhita**.  
+  🔗 [GitHub Repo](https://github.com/aakankshi/bharat-vaidya)  
+  📊 **Tech Stack:** Python, Milvus, SQL, Grobid, Docker  
+
+- 🔧 **SuperAGI Automation**  
+  🛠️ Developed toolkits for **Zoom and Trello automation**.  
+  🔗 [GitHub Repo](https://github.com/aakankshi/superagi-toolkits)  
+  📊 **Tech Stack:** Python, Docker, SuperAGI  
+
+---
+
+### 📊 **GitHub Stats**
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=aakankshi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshi&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="left">💡 Projects:</h3>
-
-- 🚀 **Bharat Vaidya:** AI-powered Ayurvedic chatbot providing specific remedies from **Charaka Samhita** using **Milvus, SQL, Grobid, and Docker**.
-
-- 🔧 **SuperAGI Automation:** Toolkits for **Zoom and Trello automation** using Python, Pydantic, and Docker.
-
-- 🛡️ **Bias Detection Model:** Developed a bias detection model using **RoBERTa and DistilBERT**, achieving **82% accuracy**.
-
-- ✈️ **Green Aviation:** Built an airline management system in Java with **database management and secure authentication**.
-
----
-
-<h3 align="left">🏅 Achievements:</h3>
-
-- 🏆 **Top 10 Teams** in **Smart India Hackathon**  
-- 💡 **Incubatee at ACIC-BMU** with **₹1 Lakh funding from ITIC, IIT Hyderabad**  
+### 🎓 **Certifications & Achievements**
+- ✅ **Top 10 Teams** in Smart India Hackathon  
+- 💡 **₹1 Lakh Funding** from ITIC, IIT Hyderabad  
 - 🎯 **Placement Committee Ambassador** at BMU  
-- 🌟 **Judges & PR Lead** at university hackathons (HackBMU, Hacked2.0)  
+- 🚀 **Judges & PR Lead** at university hackathons  
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 🌐 **Connect With Me**
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=aakankshi&show_icons=true&locale=en" alt="aakankshi" />
+<a href="https://www.linkedin.com/in/aakankshi-gera-169683249" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a> 
+<a href="mailto:aakankshi.in@gmail.com" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-<h3 align="left">🚀 Recent Activity:</h3>
-<p align="left">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=aakankshi&bg_color=0d1117&color=ffffff&line=5ddcff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-⭐️ **Feel free to reach out and collaborate on exciting AI and ML projects!**
+### 💡 **Quote of the Day**
+> **"The only way to do great work is to love what you do."** – Steve Jobs
