@@ -12,7 +12,7 @@
 - 🌱 Exploring **Vector Databases, NLP, and SuperAGI**  
 - 💡 Actively participating in **Hackathons & AI Projects**  
 - 🥇 **National-Level Table Tennis Player**
-- Fun Fact- ⚡ I use Docker so much that I dream in containers! 
+- ⚡ Fun Fact-  I use Docker so much that I dream in containers! 
 
 ---
 
