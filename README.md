@@ -17,17 +17,30 @@
 ---
 
 ### 🛠️ **Tech Stack & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Milvus-3B7EA1?style=flat-square&logo=Milvus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangChain-FFCE00?style=flat-square&logo=LangChain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white" />
-</p>
+
+#### 🚀 **Languages**
+C++ | Java | JavaScript | TypeScript | Python | SQL | Dart | R  
+
+#### 🌐 **Frontend**
+HTML5 | CSS3 | Bootstrap | React | Flutter  
+
+#### ⚙️ **Backend**
+Node.js | Express.js | FastAPI  
+
+#### 🛢️ **Databases**
+MongoDB | PostgreSQL | MySQL | Firebase | Microsoft SQL Server | SQLite  
+
+#### ☁️ **Cloud & Deployment**
+AWS | Heroku | Netlify | Vercel | Google Cloud | Nginx  
+
+#### 🔥 **Version Control & CI/CD**
+Git | GitHub | GitHub Actions | Docker | Jenkins | Jira  
+
+#### 🔧 **Frameworks, Libraries & Tools**
+TensorFlow | PyTorch | Keras | NumPy | Pandas | Matplotlib | Plotly | scikit-learn  
+
+#### ⚡ **Other Tools**
+Arduino | Postman | Figma | DevOps  
 
 ---
 
